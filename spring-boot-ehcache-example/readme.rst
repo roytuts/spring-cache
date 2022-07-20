@@ -1,1 +1,1 @@
-You can read tutorial https://roytuts.com/ehcache-implementation-using-spring-framework/
+Please follow the tutorial https://roytuts.com/ehcache-implementation-using-spring-framework/
